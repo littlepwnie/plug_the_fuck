@@ -1,7 +1,0 @@
-Name                                Description
--------------------------------------------------------------------------------------------------
-ubuntu_gui_info_gathering           Opens a terminal using Ctrl-Alt-T, gathers basic system 
-                                    information in a .txt file and uploads it to a desired ftp
-                                    server.
-ubuntu_gui_wget_n_run               Opens a terminal using Ctrl-Alt-T, downloads a file from a 
-                                    specified link and executes it.
