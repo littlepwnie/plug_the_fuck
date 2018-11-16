@@ -1,5 +1,0 @@
-     uname                 The name of the user you want to create.
-     pass                  The password of the user you want to create.
-     ftpip                 The ip of the ftp server.
-     ftpuname              The name of the ftp user.
-     ftppass               The password of the ftp user.
