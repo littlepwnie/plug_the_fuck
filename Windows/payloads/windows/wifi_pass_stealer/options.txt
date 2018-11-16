@@ -1,0 +1,3 @@
+     ftpip                 The ip of the ftp server.
+     ftpuname              The name of the ftp user.
+     ftppass               The password of the ftp user.

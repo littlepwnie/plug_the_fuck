@@ -1,0 +1,2 @@
+     ip                    The desired ip.
+     domain                The domain name you want to spoof (e.g. www.lol.com).
