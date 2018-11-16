@@ -20,7 +20,7 @@ Or: download all files from Master and delete "Linux"
 
 Run the executable either by double-clicking on it or through the cmd by its name. No arguments needed.
 The folder "source" contains the source code in single .cpp file and Visual Studio project if you wish to compile it yourselves.
-! Some users may experience issues with the font colours !
+Some users may experience issues with the font colours !
 
 # Linux
 ```
